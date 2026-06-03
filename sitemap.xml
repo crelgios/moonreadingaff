@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://moonereading.store/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.moonereading.store/</loc>
   </url>
   <url>
-    <loc>https://moonereading.store/privacy-policy.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.moonereading.store/privacy-policy.html</loc>
   </url>
   <url>
-    <loc>https://moonereading.store/disclaimer.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.moonereading.store/terms-of-service.html</loc>
   </url>
   <url>
-    <loc>https://moonereading.store/contact-us.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.moonereading.store/disclaimer.html</loc>
+  </url>
+  <url>
+    <loc>https://www.moonereading.store/contact-us.html</loc>
   </url>
 </urlset>

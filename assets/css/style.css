@@ -37,3 +37,13 @@ strong,b{font-weight:900}.center{text-align:center}.red{color:#ff0000}
   body{font-size:16px;background:#eef5f8}.header-inner{padding:10px 24px;min-height:62px}.brand{font-size:32px}.top-nav{display:none}.menu-icon{display:block}.home-wrap{max-width:500px;font-size:16px;line-height:1.48}.home-wrap h1{font-size:17px;line-height:1.22;padding:9px 8px 10px}.product-layout{display:block;padding:0 8px 16px}.intro-copy p,.white-section>p,.text-section p{font-size:16px;line-height:1.48;margin-bottom:14px}.intro-copy p.offer-line{font-size:18px;margin:10px 0 14px}.placeholder-box{min-height:190px;font-size:14px}.placeholder-box.tall{min-height:210px}.placeholder-box.medium{min-height:190px}.image-main img{max-height:250px}.image-quality img{max-height:90px}.image-results img,.image-ingredients img,.image-final img{max-height:230px}.cta{font-size:13px;padding:8px 17px;border-width:2px}.white-section{padding:14px 8px}.white-section h2{font-size:26px;margin:10px 0 12px}.bar-title{font-size:20px!important;padding:8px 12px}.three-cards,.two-col{grid-template-columns:1fr}.card{margin-bottom:12px;border-radius:15px}.card h3{font-size:15px}.card p,.home-wrap li{font-size:16px;line-height:1.45}.page-hero{padding:64px 20px}.page-hero h1{font-size:28px}.page-main{padding:28px 8px}.content-card{padding:24px 20px;font-size:16px}.content-card h2{font-size:22px}.content-card h3{font-size:16px}.content-card li{font-size:16px}.footer-inner{padding:42px 22px 30px}.footer-contact-grid{display:block;margin-bottom:56px}.footer-block{margin-bottom:52px}.footer-block h3,.fda-block h3{font-size:17px;margin-bottom:22px}.footer-block p,.fda-block p{font-size:16px}.copyright{font-size:16px;margin:26px 0 48px}.footer-links{gap:28px}.footer-links a{font-size:21px}
 }
 @media (max-width:420px){.brand{font-size:30px}.page-hero h1{font-size:26px}.footer-links{gap:18px}.footer-links a{font-size:20px}.content-card{box-shadow:0 4px 12px rgba(0,0,0,.04)}}
+
+
+.legal-text {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #1f2937;
+}
