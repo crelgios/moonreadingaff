@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://moonereading.store/sitemap.xml
+
+Sitemap: https://www.moonereading.store/sitemap.xml
