@@ -21,8 +21,8 @@ const urls = [
 ];
 const data = JSON.stringify({
   host: 'www.moonereading.store',
-  key: '276b9a22824b40c39cfd65b90df67203',
-  keyLocation: 'https://www.moonereading.store/276b9a22824b40c39cfd65b90df67203.txt',
+  key: '23a9e5f09a414b9193f6edd1188b90e6',
+  keyLocation: 'https://www.moonereading.store/23a9e5f09a414b9193f6edd1188b90e6.txt',
   urlList: urls
 });
 const req = https.request({
