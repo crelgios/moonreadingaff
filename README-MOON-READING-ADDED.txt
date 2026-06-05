@@ -1,0 +1,1 @@
+Added Moon Reading landing-style post to this website. New page: posts/moon-reading-review-2026.html. Main CTA buttons use the ClickBank affiliate link supplied by the user. Homepage, news page, sitemap and IndexNow file were updated.
