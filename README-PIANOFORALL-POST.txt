@@ -1,0 +1,9 @@
+Added Pianoforall landing-style post
+
+Post file:
+posts/pianoforall-review-2026.html
+
+Affiliate link used in CTA buttons:
+https://e8450cm6lp26kf6ms0qci2ta8y.hop.clickbank.net
+
+After uploading, submit sitemap.xml in Google Search Console and Bing Webmaster Tools.

@@ -1,12 +1,12 @@
 const https = require('https');
-const urls = ["https://moonereading.store/news.html", "https://moonereading.store/about.html", "https://moonereading.store/contact.html", "https://moonereading.store/privacy-policy.html", "https://moonereading.store/posts/ai-tools-changing-study-work.html", "https://moonereading.store/posts/smartphone-privacy-settings-guide.html", "https://moonereading.store/posts/digital-payments-small-business-trends.html", "https://moonereading.store/posts/online-learning-skills-career-update.html", "https://moonereading.store/posts/space-weather-satellites-internet-explainer.html",
-  "https://moonereading.store/posts/the-genius-song-review.html",
-  "https://moonereading.store/posts/moon-reading-review-2026.html"
+const urls = ["https://www.moonereading.store/posts/pianoforall-review-2026.html", "https://www.moonereading.store/news.html", "https://www.moonereading.store/about.html", "https://www.moonereading.store/contact.html", "https://www.moonereading.store/privacy-policy.html", "https://www.moonereading.store/posts/ai-tools-changing-study-work.html", "https://www.moonereading.store/posts/smartphone-privacy-settings-guide.html", "https://www.moonereading.store/posts/digital-payments-small-business-trends.html", "https://www.moonereading.store/posts/online-learning-skills-career-update.html", "https://www.moonereading.store/posts/space-weather-satellites-internet-explainer.html",
+  "https://www.moonereading.store/posts/the-genius-song-review.html",
+  "https://www.moonereading.store/posts/moon-reading-review-2026.html"
 ];
 const data = JSON.stringify({
-  host: 'moonereading.store',
+  host: 'www.moonereading.store',
   key: '276b9a22824b40c39cfd65b90df67203',
-  keyLocation: 'https://moonereading.store/276b9a22824b40c39cfd65b90df67203.txt',
+  keyLocation: 'https://www.moonereading.store/276b9a22824b40c39cfd65b90df67203.txt',
   urlList: urls
 });
 const req = https.request({
