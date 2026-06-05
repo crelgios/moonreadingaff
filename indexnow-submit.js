@@ -1,7 +1,23 @@
 const https = require('https');
-const urls = ["https://www.moonereading.store/posts/pianoforall-review-2026.html", "https://www.moonereading.store/news.html", "https://www.moonereading.store/about.html", "https://www.moonereading.store/contact.html", "https://www.moonereading.store/privacy-policy.html", "https://www.moonereading.store/posts/ai-tools-changing-study-work.html", "https://www.moonereading.store/posts/smartphone-privacy-settings-guide.html", "https://www.moonereading.store/posts/digital-payments-small-business-trends.html", "https://www.moonereading.store/posts/online-learning-skills-career-update.html", "https://www.moonereading.store/posts/space-weather-satellites-internet-explainer.html",
+const urls = [
+  "https://www.moonereading.store/",
+  "https://www.moonereading.store/news.html",
+  "https://www.moonereading.store/posts/pianoforall-review-2026.html",
   "https://www.moonereading.store/posts/the-genius-song-review.html",
-  "https://www.moonereading.store/posts/moon-reading-review-2026.html"
+  "https://www.moonereading.store/posts/moon-reading-review-2026.html",
+  "https://www.moonereading.store/about.html",
+  "https://www.moonereading.store/contact.html",
+  "https://www.moonereading.store/privacy-policy.html",
+  "https://www.moonereading.store/category/business.html",
+  "https://www.moonereading.store/category/digital-life.html",
+  "https://www.moonereading.store/category/education.html",
+  "https://www.moonereading.store/category/science.html",
+  "https://www.moonereading.store/category/technology.html",
+  "https://www.moonereading.store/posts/ai-tools-changing-study-work.html",
+  "https://www.moonereading.store/posts/digital-payments-small-business-trends.html",
+  "https://www.moonereading.store/posts/online-learning-skills-career-update.html",
+  "https://www.moonereading.store/posts/smartphone-privacy-settings-guide.html",
+  "https://www.moonereading.store/posts/space-weather-satellites-internet-explainer.html"
 ];
 const data = JSON.stringify({
   host: 'www.moonereading.store',
