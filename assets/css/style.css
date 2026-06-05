@@ -56,3 +56,9 @@ img{max-width:100%;display:block}
 .branded-hero h1,.branded-hero .lead{color:#fff}
 .branded-hero:after{background:radial-gradient(circle,rgba(255,255,255,.14),transparent 65%)}
 @media(max-width:560px){.brand-logo{height:38px;max-width:175px}.hero-logo-img{border-radius:18px;margin-bottom:20px}}
+
+/* Logo and favicon update */
+.brand-logo{height:52px;width:auto;max-width:260px;object-fit:contain;border-radius:10px}
+.hero-logo-img{display:none!important}
+.branded-hero{min-height:260px;display:flex;flex-direction:column;justify-content:center}
+@media(max-width:560px){.brand-logo{height:42px;max-width:190px}.branded-hero{min-height:220px}}

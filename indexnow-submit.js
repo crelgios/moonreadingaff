@@ -3,6 +3,24 @@ const urls = ["https://moonereading.store/news.html", "https://moonereading.stor
   "https://moonereading.store/posts/the-genius-song-review.html",
   "https://moonereading.store/posts/moon-reading-review-2026.html"
 ];
-const data = JSON.stringify({host:'moonereading.store',key:'moonereading-store-indexnow-key-2026',keyLocation:'https://moonereading.store/moone-indexnow-key-2026.txt',urlList:urls});
-const req=https.request({hostname:'api.indexnow.org',path:'/indexnow',method:'POST',headers:{'Content-Type':'application/json','Content-Length':Buffer.byteLength(data)}},res=>{console.log('IndexNow status:',res.statusCode);res.on('data',d=>process.stdout.write(d));});
-req.on('error',console.error);req.write(data);req.end();
+const data = JSON.stringify({
+  host: 'moonereading.store',
+  key: '276b9a22824b40c39cfd65b90df67203',
+  keyLocation: 'https://moonereading.store/276b9a22824b40c39cfd65b90df67203.txt',
+  urlList: urls
+});
+const req = https.request({
+  hostname: 'api.indexnow.org',
+  path: '/indexnow',
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'Content-Length': Buffer.byteLength(data)
+  }
+}, res => {
+  console.log('IndexNow status:', res.statusCode);
+  res.on('data', d => process.stdout.write(d));
+});
+req.on('error', console.error);
+req.write(data);
+req.end();
