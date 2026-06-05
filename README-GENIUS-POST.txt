@@ -1,0 +1,1 @@
+Added The Genius Song landing-style post at /posts/the-genius-song-review.html. Upload all files and folders to hosting root. Use the article URL in Bing Webmaster Tools and submit sitemap.xml. Affiliate buttons use the provided link.

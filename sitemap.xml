@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.moonereading.store/</loc>
-  </url>
-  <url>
-    <loc>https://www.moonereading.store/privacy-policy.html</loc>
-  </url>
-  <url>
-    <loc>https://www.moonereading.store/terms-of-service.html</loc>
-  </url>
-  <url>
-    <loc>https://www.moonereading.store/disclaimer.html</loc>
-  </url>
-  <url>
-    <loc>https://www.moonereading.store/contact-us.html</loc>
-  </url>
-</urlset>
+  <url><loc>https://moonereading.store/</loc><lastmod>2026-06-05</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://moonereading.store/news.html</loc><lastmod>2026-06-05</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/about.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/contact.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/privacy-policy.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/posts/ai-tools-changing-study-work.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/posts/smartphone-privacy-settings-guide.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/posts/digital-payments-small-business-trends.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/posts/online-learning-skills-career-update.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/posts/space-weather-satellites-internet-explainer.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/category/technology.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/category/business.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/category/education.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/category/science.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moonereading.store/category/digital-life.html</loc><lastmod>2026-06-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://moonereading.store/posts/the-genius-song-review.html</loc><lastmod>2026-06-05</lastmod></url></urlset>

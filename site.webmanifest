@@ -1,0 +1,8 @@
+{
+  "name": "MoonE News",
+  "short_name": "MoonE News",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#0b4aa2"
+}

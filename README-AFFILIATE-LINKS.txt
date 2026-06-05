@@ -1,0 +1,1 @@
+All The Genius Song official access / order / price / availability buttons inside posts/the-genius-song-review.html point to your affiliate link. Homepage and news page still link to the article first, which is better for SEO and user trust.
