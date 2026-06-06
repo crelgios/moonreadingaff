@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Money Tree Oracle | Watch the Free Video</title>
+
+  <!-- Keep this landing page hidden from search engines -->
+  <meta name="robots" content="noindex, nofollow">
+
+  <!-- Facebook preview -->
+  <meta property="og:title" content="Discover the Money Tree Oracle Experience">
+  <meta property="og:description" content="Watch the short video to explore the Money Tree Oracle story and see what it is about.">
+  <meta property="og:url" content="https://www.moonereading.store/money-tree-oracle.html">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://www.moonereading.store/assets/money-tree-oracle-poster.jpg">
+
+  <meta property="og:site_name" content="Moone Reading">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="description" content="Watch the Money Tree Oracle video and explore more information.">
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .page {
+      width: 100%;
+      max-width: 410px;
+      background: white;
+      padding: 22px;
+      border-radius: 20px;
+      text-align: center;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    }
+
+    h1 {
+      font-size: 26px;
+      line-height: 1.3;
+      color: #111;
+      margin-bottom: 20px;
+    }
+
+    .video-box {
+      width: 100%;
+      margin-bottom: 24px;
+      border-radius: 16px;
+      overflow: hidden;
+      background: #000;
+    }
+
+    video {
+      width: 100%;
+      display: block;
+      border-radius: 16px;
+      background: #000;
+    }
+
+    .video-error {
+      display: none;
+      background: #fff4f4;
+      color: #b00020;
+      font-size: 13px;
+      line-height: 1.4;
+      padding: 12px;
+      border-radius: 12px;
+      margin: -10px 0 18px;
+      text-align: left;
+    }
+
+    .video-error a {
+      color: #b00020;
+      font-weight: bold;
+    }
+
+    .learn-btn {
+      display: block;
+      width: 100%;
+      padding: 18px 0;
+      font-size: 24px;
+      font-weight: bold;
+      color: white;
+      text-decoration: none;
+      border-radius: 50px;
+      background: linear-gradient(135deg, #ff416c, #ff4b2b, #ffcc00);
+      box-shadow: 0 10px 22px rgba(255, 75, 43, 0.45);
+      transition: 0.3s;
+    }
+
+    .learn-btn:hover {
+      transform: scale(1.04);
+    }
+
+    .small-text {
+      font-size: 13px;
+      color: #666;
+      margin-top: 14px;
+      line-height: 1.4;
+    }
+  </style>
+</head>
+<body>
+
+  <main class="page">
+    <h1>Discover the Money Tree Oracle Experience</h1>
+
+    <div class="video-box">
+      <video id="mainVideo" controls playsinline preload="metadata" poster="assets/money-tree-oracle-poster.jpg">
+        <source src="assets/money-tree-oracle.mp4" type="video/mp4">
+        Your browser does not support this video.
+      </video>
+    </div>
+
+    <div id="videoError" class="video-error">
+      Video could not load. Check that this file exists on your website:<br>
+      <a href="assets/money-tree-oracle.mp4" target="_blank" rel="noopener noreferrer">assets/money-tree-oracle.mp4</a>
+    </div>
+
+    <a
+      href="https://fd3018r9oop6kcdduanoyejrcn.hop.clickbank.net"
+      class="learn-btn"
+      target="_blank"
+      rel="noopener noreferrer">
+      Learn More
+    </a>
+
+    <p class="small-text">
+      Watch the video first, then continue if you want to explore more information. Individual results vary.
+    </p>
+  </main>
+
+  <script>
+    const video = document.getElementById('mainVideo');
+    const videoError = document.getElementById('videoError');
+
+    video.addEventListener('loadedmetadata', function () {
+      videoError.style.display = 'none';
+    });
+
+    video.addEventListener('error', function () {
+      videoError.style.display = 'block';
+    });
+  </script>
+
+</body>
+</html>
