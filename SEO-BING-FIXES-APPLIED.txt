@@ -1,0 +1,27 @@
+Bing indexation cleanup applied on 2026-06-06
+
+Files updated:
+- posts/moon-reading-review-2026.html
+- posts/pianoforall-review-2026.html
+- posts/the-genius-song-review.html
+- index.html
+- about.html
+- privacy-policy.html
+- 404.html
+- sitemap.xml
+
+Fixes applied:
+1. Added/strengthened above-the-fold affiliate disclosure on the Moon Reading review.
+2. Kept affiliate links marked with rel="sponsored nofollow noopener" and target="_blank".
+3. Reduced repeated affiliate CTA blocks on the three review pages to make the pages less sales-heavy.
+4. Added balanced "who should avoid" sections to the review pages.
+5. Replaced sales/landing-page language with more neutral consumer-guide wording.
+6. Updated homepage and about page wording to clarify that MoonE News publishes explainers and consumer guides.
+7. Added an affiliate-links privacy note.
+8. Set 404.html to noindex, follow.
+9. Updated sitemap lastmod dates to 2026-06-06.
+
+After uploading:
+- Submit https://www.moonereading.store/sitemap.xml in Bing Webmaster Tools.
+- Use URL Inspection > Live URL Test on your homepage and the three updated review pages.
+- Request indexing only after Bing can fetch the live updated version.
